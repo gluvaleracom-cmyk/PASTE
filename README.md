@@ -1,5 +1,3 @@
-[1paste.html](https://github.com/user-attachments/files/23828141/1paste.html)
-<!DOCTYPE html>
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
